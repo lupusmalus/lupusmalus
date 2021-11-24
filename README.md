@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Erik.
 
 <!--
 **lupusmalus/lupusmalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 BSc in Computer Science @ EPFL Lausanne
+- 🎓 Master's studies in Computer Science @ EPFL Lausanne
+- 👨🏽‍💻 Research Assistant as Computer Scientist in the fields of entrepreneurship and economics of science @ UNIL Lausanne
+- 🤖 Currently working on Attention Systems for Social Robots @ CHILI Lab EPFL Lausanne
+- 🕹 Currently recreating a [Nintendo 64 Game](https://de.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%E2%80%99s_Mask) in [Minecraft](https://de.wikipedia.org/wiki/Minecraft)
+- 📹 Check out my [YouTube Channel](https://www.youtube.com/channel/UCXf5KMMann957oaArXofEJw)
+- 📫 Contact me @ [erik@wengle.biz](mailto:erik@wengle.biz)
+

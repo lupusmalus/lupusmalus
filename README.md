@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 🎓 BSc in Computer Science @ EPFL Lausanne
 - 🎓 Master's studies in Computer Science @ EPFL Lausanne
 - 👨🏽‍💻 Research Assistant as Computer Scientist in the fields of entrepreneurship and economics of science @ HEC Lausanne
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 📹 Check out my [YouTube Channel](https://www.youtube.com/channel/UCXf5KMMann957oaArXofEJw)
 - 📫 Contact me @ [erik@wengle.biz](mailto:erik@wengle.biz)
 
+-->

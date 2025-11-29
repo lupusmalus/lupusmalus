@@ -1,4 +1,4 @@
-### Hello there, I'm Erik.
+### Hello there
 
 <!--
 **lupusmalus/lupusmalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
